@@ -20,11 +20,11 @@ pip install -r requirements.txt
 
 ### 第二步：更改代码中的列表部分
 
-![](D:\强化学习\论文收集\extract_papers\images\conf_and_jour.png)
+![](images\conf_and_jour.png)
 
 会议和期刊一定要放在**对应的列表**里，缩写要与CCF目录中指定的**网址缩写**对应（一般是一样的）
 
-![](D:\强化学习\论文收集\extract_papers\images\ccf.png)
+![](images\ccf.png)
 
 ### 第三步：main.py
 
@@ -37,4 +37,4 @@ python main.py -t 2022 -k edge_computing
 * "--save_dir" 保存目录.
 * 保存的条目有：标题、作者、链接
 
-![](D:\强化学习\论文收集\extract_papers\images\result.png)
+![](images\result.png)
