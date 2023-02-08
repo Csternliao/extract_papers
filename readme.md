@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ### 第二步：main.py
 
 ```python
-python main.py -t 2022 --k edge_computing
+python main.py -t 2022 -k edge_computing
 ```
 
 * "-t" or --time" 期刊/会议年份.
